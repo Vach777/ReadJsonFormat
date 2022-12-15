@@ -1,0 +1,25 @@
+{
+  "fileName": "allMember",
+  "users": [
+    {
+      "name": "Alvard",
+      "age": 18,
+      "isActive": false
+    },
+    {
+      "name": "Anna",
+      "age": 20,
+      "isActive": true
+    },
+    {
+      "name": "Gor",
+      "age": 25,
+      "isActive": false
+    },
+    {
+      "name": "Armen",
+      "age": 29,
+      "isActive": true
+    }
+  ]
+}
